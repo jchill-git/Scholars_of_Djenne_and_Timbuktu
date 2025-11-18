@@ -1,6 +1,6 @@
 # Scholars of Djenne and Timbuktu
 
-The analysis is described in greater depth in the (write-up)[https://github.com/jchill-git/Scholars_of_Djenne_and_Timbuktu/blob/main/Project%20Write-Up.docx].
+The analysis is described in greater depth in the [write-up](https://github.com/jchill-git/Scholars_of_Djenne_and_Timbuktu/blob/main/Project%20Write-Up.docx).
 
 The key files in this folder are:
 
